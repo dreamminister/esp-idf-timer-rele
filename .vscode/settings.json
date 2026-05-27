@@ -14,5 +14,6 @@
     "--background-index",
     "--query-driver=**",
     "--compile-commands-dir=c:\\git\\timer-rele-esp-idf\\build"
-  ]
+  ],
+  "idf.flashType": "UART"
 }
